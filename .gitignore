@@ -2,8 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-src/docs/
-# C extensions
+
+src/docs/*
+
+# C extensions'init'
 *.so
 
 # Distribution / packaging
